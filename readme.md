@@ -4,11 +4,13 @@
 
 Final Results
 
-![car+depth](C:\Users\wzy\Desktop\Tsinghua\清华学习资料4\图形学\Computer-Graphics-2019\result\car+depth.png)
+(![car+depth.png](https://github.com/thuwzy/Computer-Graphics-2019/blob/master/result/car+depth.png?raw=true)
+
+![dragon_AfterBrightening.png](https://github.com/thuwzy/Computer-Graphics-2019/blob/master/result/dragon_AfterBrightening.png?raw=true)
 
 
 
-![room_bright](C:\Users\wzy\Desktop\Tsinghua\清华学习资料4\图形学\Computer-Graphics-2019\result\room_bright.png)
+![room_bright.png](https://github.com/thuwzy/Computer-Graphics-2019/blob/master/result/room_bright.png?raw=true)
 
-![dragon_AfterBrightening](C:\Users\wzy\Desktop\Tsinghua\清华学习资料4\图形学\Computer-Graphics-2019\result\dragon_AfterBrightening.png)
+
 
